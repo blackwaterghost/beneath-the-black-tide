@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./IMG_0034.jpeg" width="100%">
 </p>
-<p align="center">
-  <img src="./IMG_0034" width="100%">
-</p>
 # beneath-the-black-tide
 𓆩 黑水沉舟 𓆪
 
