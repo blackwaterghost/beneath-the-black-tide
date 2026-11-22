@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="./IMG_0034.jpeg" width="100%">
+</p>
+<p align="center">
   <img src="./IMG_0034" width="100%">
 </p>
 # beneath-the-black-tide
