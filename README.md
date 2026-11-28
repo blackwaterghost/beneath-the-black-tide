@@ -31,7 +31,7 @@ music art coding literature
 
 03. CURRENTLY
 
-Learning, creating, and drifting through the deep.
+Learning, creating
 
 <p align="center">
   <i>"Even the deepest waters keep their secrets."</i>
